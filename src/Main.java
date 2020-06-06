@@ -16,12 +16,12 @@ public class Main  {
 
         int c = scanner.nextInt();
 
-        Vehiculo thread = new Vehiculo(a,1);
-        Vehiculo thread2 = new Vehiculo(b,2);
-        Vehiculo thread3 = new Vehiculo(c,3);
-        thread.run();
-        thread2.run();
-        thread3.run();
+        Vehiculo hilo = new Vehiculo(a,1);
+        Vehiculo hilo2 = new Vehiculo(b,2);
+        Vehiculo hilo3 = new Vehiculo(c,3);
+        hilo.run();
+        hilo2.run();
+        hilo3.run();
     }
 }
  
