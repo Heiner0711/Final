@@ -1,0 +1,7 @@
+1 la fórmula de la mediana no tiene la respuesta que se espera
+
+2 el botón suma no envía el resultado al textbox
+
+3 el botón generar no tiene el evento correspondiente
+
+4 el botón promedio no devuelve la función generada
